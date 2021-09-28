@@ -55,3 +55,139 @@ ta\\Local\\Temp\\rust_mozprofileAw95W2\\search.json.mozlz4", (void 0)))
 1632749988128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1632749991241	Marionette	INFO	Stopped listening on port 53133
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632821926842	geckodriver	INFO	Listening on 127.0.0.1:54137
+1632821929894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileYxzhqM"
+1632821931031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileYxzhqM\\search.json.mozlz4", (void 0)))
+1632821935744	Marionette	INFO	Listening on port 54145
+1632821935903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632821941265	Marionette	INFO	Stopped listening on port 54145
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1632821985992	geckodriver	INFO	Listening on 127.0.0.1:54463
+1632821989039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileN45K4d"
+1632821989698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileN45K4d\\search.json.mozlz4", (void 0)))
+1632821993201	Marionette	INFO	Listening on port 55298
+1632821993337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632821999746	Marionette	INFO	Stopped listening on port 55298
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1632822048300	geckodriver	INFO	Listening on 127.0.0.1:62690
+1632822051345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileqlVm6n"
+1632822051825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileqlVm6n\\search.json.mozlz4", (void 0)))
+1632822054367	Marionette	INFO	Listening on port 60395
+1632822054639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822057817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632822130640	Marionette	INFO	Stopped listening on port 60395
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632822201392	geckodriver	INFO	Listening on 127.0.0.1:56212
+1632822204462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile1zK5CL"
+1632822205380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile1zK5CL\\search.json.mozlz4", (void 0)))
+1632822208283	Marionette	INFO	Listening on port 59618
+1632822208716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822217119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632822301431	Marionette	INFO	Stopped listening on port 59618
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ta\\Local\\Temp\\rust_mozprofilePNUuBj\\search.json.mozlz4", (void 0)))
+1632822281942	Marionette	INFO	Listening on port 54515
+1632822282192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822285152	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632822296234	Marionette	INFO	Stopped listening on port 54515
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632822417743	geckodriver	INFO	Listening on 127.0.0.1:55300
+1632822420810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofilesp9Vpg"
+1632822421245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofilesp9Vpg\\search.json.mozlz4", (void 0)))
+1632822423535	Marionette	INFO	Listening on port 64645
+1632822424076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822428779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632822568435	Marionette	INFO	Stopped listening on port 64645
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofilelZ8Org\\search.json.mozlz4", (void 0)))
+1632822518058	Marionette	INFO	Listening on port 56187
+1632822518305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822562081	Marionette	INFO	Stopped listening on port 56187
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632822877739	geckodriver	INFO	Listening on 127.0.0.1:51658
+1632822880822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofilecGAJHi"
+1632822881231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofilecGAJHi\\search.json.mozlz4", (void 0)))
+1632822883284	Marionette	INFO	Listening on port 65147
+1632822883571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632822888878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632822906052	Marionette	INFO	Stopped listening on port 65147
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632823076831	geckodriver	INFO	Listening on 127.0.0.1:55177
+1632823079911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile7nHgLV"
+1632823080298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile7nHgLV\\search.json.mozlz4", (void 0)))
+1632823082258	Marionette	INFO	Listening on port 53808
+1632823082642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632823086870	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: can't access property "ownerGlobal", this._element is null
+1632823093493	Marionette	INFO	Stopped listening on port 53808
+Marionette threw an error: TypeError: can't access property "getActor", browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632823485500	geckodriver	INFO	Listening on 127.0.0.1:52582
+1632823488593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile8LbQ2K"
+1632823489056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofile8LbQ2K\\search.json.mozlz4", (void 0)))
+1632823491176	Marionette	INFO	Listening on port 60314
+1632823491345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632823528271	Marionette	INFO	Stopped listening on port 60314
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Faten\AppData\Local\Temp\rust_mozprofile8LbQ2K\sessionCheckpoints.json.tmp) to destination(C:\Users\Faten\AppData\Local\Temp\rust_mozprofile8LbQ2K\sessionCheckpoints.json)
+1632823532580	geckodriver	INFO	Listening on 127.0.0.1:49573
+1632823535615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileXwL717"
+1632823536067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Faten\\AppData\\Local\\Temp\\rust_mozprofileXwL717\\search.json.mozlz4", (void 0)))
+1632823538460	Marionette	INFO	Listening on port 53447
+1632823538857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632823638800	Marionette	INFO	Stopped listening on port 53447
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
