@@ -19,3 +19,5 @@ time.sleep(3)
 #accept alert
 a=Alert(driver)
 a.accept()
+# a.dismiss()
+# driver.fullscreen_window("alert")
